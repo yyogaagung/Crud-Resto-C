@@ -1,0 +1,42 @@
+
+Tue Apr 19 09:07:25 2022
+Menampilkan data
+
+Tue Apr 19 09:07:29 2022
+Menambahkan data dengan id 1, nama Mie_Ayam
+
+Tue Apr 19 09:07:29 2022
+Menambahkan data dengan id 2, nama Udang_Pedas
+
+Tue Apr 19 09:08:36 2022
+Menampilkan data
+
+Tue Apr 19 09:09:01 2022
+Menghapus data dengan id 2, nama Udang_Pedas
+
+Tue Apr 19 09:09:25 2022
+Menampilkan data
+
+Tue Apr 19 09:09:36 2022
+Menambahkan data dengan id 2, nama Ayam_Bakar
+
+Tue Apr 19 09:09:36 2022
+Menambahkan data dengan id 3, nama Sate_Kambing
+
+Tue Apr 19 09:11:16 2022
+Menampilkan data
+
+Tue Apr 19 09:11:21 2022
+Mengedit data dengan id 1, harga 10000.00 menjadi 20000.00
+
+Tue Apr 19 09:11:44 2022
+Menampilkan data
+
+Tue Apr 19 09:12:09 2022
+Mencari data dengan id 3, nama Sate_Kambing
+
+Tue Apr 19 09:12:22 2022
+Mengurutkan data dengan ascending
+
+Tue Apr 19 09:12:47 2022
+Mengurutkan data dengan descending

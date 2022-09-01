@@ -1,0 +1,3 @@
+1	 Mie_Ayam			 20000.00		 12		 Makanan_Berkuah
+2	 Ayam_Bakar			 24000.00		 23		 Olahan_Ayam
+3	 Sate_Kambing			 15000.00		 12		 Olahan_Kambing
